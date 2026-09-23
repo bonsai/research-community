@@ -14,7 +14,7 @@
 - [Podcast企画](docs/podcast-plan.md)
 - [SNS・AI・アカウント運用](docs/social-and-ai-strategy.md)
 - [集客・収益化・配達員紹介の実験](docs/growth-and-monetization.md)
-- [API・Bot・オンラインサロン調査](research/platform-api-bot-research.md)（調査完了後に追記）
+- [API・Bot・オンラインサロン調査](research/platform-api-bot-research.md)
 
 ## アカウントの役割
 
@@ -29,6 +29,7 @@
 3. 小さく試し、数字と失敗を記録し、現場で改善する。
 4. 写真、動画、音楽、個人情報、AI入力データの権利と同意を確認する。
 5. 「不労所得」は補助的な検索語にとどめ、実態は仕組み型・積み上げ型収入として説明する。
+6. 外部サービスを会員資格の正本にしない。会員・決済・同意は独立した基盤で管理する。
 
 ## 想定する最初の実験
 
