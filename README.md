@@ -45,10 +45,7 @@
 
 ## Ecosystem governance
 
-This repository is the strategic parent for the community ecosystem. It governs the mission, research, brand principles, platform decisions, and shared learning across:
+`buraiha-p` is the top-level producer agent and overall strategy owner. This repository is a research, brand, community-asset, and learning workspace under P's direction. It supplies evidence and reusable materials; it does not govern the full portfolio.
 
-- [community-based-sales](https://github.com/bonsai/community-based-sales): content, email/community nurture, and sales experiments
-- [bonsai/MX](https://github.com/bonsai/MX): marketing transformation, market hypotheses, positioning, and measurement
-- [bonsai/buraiha-p](https://github.com/bonsai/buraiha-p): producer-agent coordination and real-world work experiments
-
-See [Community Ecosystem Governance](docs/ecosystem-governance.md) for repository responsibilities, shared artifact IDs, review cadence, funnel architecture, and trust rules.
+- [buraiha-p — overall strategy and producer agent](https://github.com/bonsai/buraiha-p)
+- [Community Ecosystem Governance](docs/ecosystem-governance.md)
